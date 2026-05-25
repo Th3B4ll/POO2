@@ -31,4 +31,8 @@ public class Rectangulo {
 	public boolean esHorizontal() {
 		return this.a < this.b;
 	}
+	
+	public Rectangulo() {
+		
+	}
 }
